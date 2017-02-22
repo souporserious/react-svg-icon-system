@@ -1,0 +1,23 @@
+{
+  "name": "react-svg-icon-system",
+  "version": "0.1.0",
+  "description": "Create a React icon system from a folder of SVG's",
+  "main": "index.js",
+  "repository": {},
+  "author": "Travis Arnold",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-import-glob": "^1.0.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-svg": "^2.1.19",
+    "svg-react-loader": "next",
+    "webpack": "^2.2.1"
+  }
+}
